@@ -1,0 +1,398 @@
+Zip,RegionName
+7001,Avenel
+7002,Bayonne
+7003,Bloomfield
+7004,Fairfield
+7005,Boonton
+7006,Caldwell
+7008,Carteret
+7009,Cedar Grove
+7010,Cliffside Park
+7011,Clifton
+7012,Clifton
+7013,Clifton
+7014,Clifton
+7016,Cranford
+7017,East Orange
+7018,East Orange
+7020,Edgewater
+7021,Essex Fells
+7022,Fairview
+7023,Fanwood
+7024,Fort Lee
+7026,Garfield
+7027,Garwood
+7028,Glen Ridge
+7029,Harrison
+7030,Hoboken
+7031,North Arlington
+7032,Kearny
+7033,Kenilworth
+7034,Lake Hiawatha
+7035,Lincoln Park
+7036,Linden
+7039,Livingston
+7040,Maplewood
+7041,Millburn
+7042,Montclair
+7043,Upper Montclair
+7044,Verona
+7045,Montville
+7046,Mountain Lakes
+7047,North Bergen
+7050,Orange
+7052,West Orange
+7054,Parsippany
+7055,Passaic
+7057,Wallington
+7058,Pine Brook
+7059,Warren
+7060,Plainfield
+7062,Plainfield
+7063,Plainfield
+7064,Port Reading
+7065,Rahway
+7066,Clark
+7067,Colonia
+7068,Roseland
+7069,Watchung
+7070,Rutherford
+7071,Lyndhurst
+7072,Carlstadt
+7073,East Rutherford
+7074,Moonachie
+7075,Wood-Ridge
+7076,Scotch Plains
+7077,Sewaren
+7078,Short Hills
+7079,South Orange
+7080,South Plainfield
+7081,Springfield
+7082,Towaco
+7083,Union
+7086,Weehawken
+7087,Union City
+7088,Vauxhall
+7090,Westfield
+7092,Mountainside
+7093,West New York
+7094,Secaucus
+7095,Woodbridge
+7102,Newark
+7103,Newark
+7104,Newark
+7105,Newark
+7106,Newark
+7107,Newark
+7108,Newark
+7109,Belleville
+7110,Nutley
+7111,Irvington
+7112,Newark
+7114,Newark
+7201,Elizabeth
+7202,Elizabeth
+7203,Roselle
+7204,Roselle Park
+7205,Hillside
+7206,Elizabeth
+7208,Elizabeth
+7302,Jersey City
+7304,Jersey City
+7305,Jersey City
+7306,Jersey City
+7307,Jersey City
+7310,Jersey City
+7311,Jersey City
+7401,Allendale
+7403,Bloomingdale
+7405,Kinnelon
+7407,Elmwood Park
+7410,Fair Lawn
+7416,Franklin
+7417,Franklin Lakes
+7418,Vernon Valley
+7419,Hamburg
+7420,Wanaque
+7421,Hewitt
+7422,Highland Lake
+7423,Ho-Ho-Kus
+7424,Woodland Park
+7430,Mahwah
+7432,Midland Park
+7435,Newfoundland
+7436,Oakland
+7438,Oak Ridge
+7439,Ogdensburg
+7440,Pequannock
+7442,Pompton Lakes
+7444,Pompton Plains
+7446,Ramsey
+7450,Ridgewood
+7452,Glen Rock
+7456,Ringwood
+7457,Riverdale
+7458,Upper Saddle River
+7460,Stockholm
+7461,Sussex
+7462,Vernon
+7463,Waldwick
+7465,Wanaque
+7470,Wayne
+7480,West Milford
+7481,Wyckoff
+7495,Mahwah
+7501,Paterson
+7502,Paterson
+7503,Paterson
+7504,Paterson
+7505,Paterson
+7506,Hawthorne
+7508,North Haledon
+7512,Totowa
+7513,Paterson
+7514,Paterson
+7522,Paterson
+7524,Paterson
+7601,Hackensack
+7603,Bogota
+7604,Hasbrouck Heights
+7605,Leonia
+7606,South Hackensack
+7607,Maywood
+7608,Teterboro
+7620,Alpine
+7621,Bergenfield
+7624,Closter
+7626,Cresskill
+7627,Demarest
+7628,Dumont
+7630,Emerson
+7631,Englewood
+7632,Englewood Cliffs
+7640,Harrington Park
+7641,Haworth
+7642,Hillsdale
+7643,Little Ferry
+7644,Lodi
+7645,Montvale
+7646,New Milford
+7647,Northvale
+7648,Norwood
+7649,Oradell
+7650,Palisades Park
+7652,Paramus
+7656,Park Ridge
+7657,Ridgefield
+7660,Ridgefield Park
+7661,River Edge
+7662,Rochelle Park
+7663,Saddle Brook
+7666,Teaneck
+7670,Tenafly
+7675,Westwood
+7676,Township Of Washington
+7677,Woodcliff Lake
+7701,Red Bank
+7702,Shrewsbury
+7703,Oceanport
+7704,Fair Haven
+7711,Allenhurst
+7712,Asbury Park
+7716,Atlantic Highlands
+7717,Avon-by-the-Sea
+7718,Belford
+7719,Belmar
+7720,Bradley Beach
+7721,Cliffwood
+7722,Colts Neck
+7723,Deal
+7724,Eatontown
+7726,Englishtown
+7727,Farmingdale
+7728,Freehold
+7730,Hazlet
+7731,Howell
+7732,Highlands
+7733,Holmdel
+7734,Keansburg
+7735,Keyport
+7737,Leonardo
+7738,Lincroft
+7739,Little Silver
+7740,Long Branch
+7746,Marlboro
+7747,Matawan
+7748,Middletown
+7750,Monmouth Beach
+7751,Morganville
+7753,Neptune
+7755,Oakhurst
+7756,Ocean Grove
+7757,Oceanport
+7758,Port Monmouth
+7760,Rumson
+7762,Spring Lake Heights
+7764,West Long Branch
+7801,Dover
+7803,Mine Hill
+7821,Andover
+7822,Augusta
+7826,Branchville
+7827,Montague
+7828,Budd Lake
+7830,Califon
+7834,Denville
+7836,Flanders
+7842,Hibernia
+7843,Hopatcong
+7847,Kenvil
+7848,Lafayette
+7849,Lake Hopatcong
+7850,Landing
+7851,Layton
+7852,Ledgewood
+7853,Long Valley
+7856,Mount Arlington
+7857,Netcong
+7860,Newton
+7866,White Meadow Lake
+7869,Randolph
+7870,Schooleys Mountain
+7871,Sparta
+7874,Stanhope
+7876,Succasunna
+7878,Mount Tabor
+7881,Wallpack Center
+7885,Wharton
+7901,Summit
+7920,Basking Ridge
+7921,Bedminster
+7922,Berkeley Heights
+7924,Bernardsville
+7926,Brookside
+7927,Cedar Knolls
+7928,Chatham
+7930,Chester
+7931,Far Hills
+7932,Florham Park
+7933,Gillette
+7934,Peapack and Gladstone
+7935,Green Village
+7936,East Hanover
+7939,Lyons
+7940,Madison
+7945,Mendham
+7946,Millington
+7950,Morris Plains
+7960,Morristown
+7961,Morristown
+7970,Mount Freedom
+7974,New Providence
+7976,New Vernon
+7977,Peapack and Gladstone
+7979,Pottersville
+7980,Stirling
+7981,Whippany
+8005,Barnegat
+8006,Barnegat Light
+8008,North Beach Haven
+8050,Ocean Acres
+8087,Tuckerton
+8092,West Creek
+8501,Allentown
+8502,Belle Mead
+8510,Millstone Township
+8512,Cranbury
+8514,Cream Ridge
+8527,Jackson
+8528,Kingston
+8530,Lambertville
+8533,New Egypt
+8535,Millstone Township
+8536,Princeton Meadows
+8551,Ringoes
+8553,Rocky Hill
+8555,Roosevelt
+8558,Skillman
+8559,Stockton
+8701,Lakewood
+8720,Allenwood
+8721,Bayville
+8722,Beachwood
+8723,Brick
+8724,Brick
+8730,Brielle
+8731,Forked River
+8732,Island Heights
+8733,Lakehurst
+8734,Lanoka Harbor
+8735,Lavallette
+8736,Manasquan
+8738,Mantoloking
+8740,Ocean Gate
+8741,Pine Beach
+8742,Point Pleasant
+8750,Sea Girt
+8751,Seaside Heights
+8752,Seaside Park
+8753,Toms River
+8755,Toms River
+8757,Holiday City-Berkeley
+8758,Waretown
+8759,Manchester Township
+8801,Annandale
+8802,Asbury
+8804,Bloomsbury
+8805,Bound Brook
+8807,Bradley Gardens
+8809,Clinton
+8810,Dayton
+8812,Dunellen
+8816,East Brunswick
+8817,Edison
+8820,Edison
+8821,Flagtown
+8822,Flemington
+8823,Franklin Park
+8824,Kendall Park
+8825,Frenchtown
+8826,Glen Gardner
+8827,Hampton
+8828,Helmetta
+8829,High Bridge
+8830,Iselin
+8831,Monroe Township
+8832,Keasbey
+8833,Lebanon
+8835,Manville
+8836,Martinsville
+8837,Edison
+8840,Metuchen
+8844,Hillsborough
+8846,Middlesex
+8848,Milford
+8850,Milltown
+8852,Monmouth Junction
+8853,Neshanic Station
+8854,Piscataway
+8857,Old Bridge
+8858,Oldwick
+8859,Sayreville
+8861,Perth Amboy
+8863,Fords
+8867,Pittstown
+8869,Raritan
+8872,Sayreville
+8873,Somerset
+8876,Somerville
+8879,South Amboy
+8880,South Bound Brook
+8882,South River
+8884,Spotswood
+8887,Three Bridges
+8889,Whitehouse Station
+8890,Zarephath
+8901,New Brunswick
+8902,North Brunswick
+8904,Highland Park
